@@ -1,0 +1,17 @@
+﻿@page "/"
+@namespace BlazorDemoApp.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = "_Layout";
+}
+
+<component type="typeof(App)" render-mode="ServerPrerendered" />
+<link href="_content/Smart.Blazor/css/smart.default.css" rel="stylesheet" />
+<script>
+    (function (global) {
+  global.getSelectedDate = function() {
+      const calendar = document.querySelector('smart-scheduler smart-calendar');
+      return calendar.value;
+  }    
+})(window);
+</script>

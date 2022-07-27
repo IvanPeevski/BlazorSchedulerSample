@@ -1,0 +1,114 @@
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\obj\Debug\net6.0\BlazorDemoApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\obj\Debug\net6.0\BlazorDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\obj\Debug\net6.0\BlazorDemoApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\obj\Debug\net6.0\BlazorDemoApp.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\obj\Debug\net6.0\BlazorDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\obj\Debug\net6.0\BlazorDemoApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\obj\Debug\net6.0\BlazorDemoApp.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\obj\Debug\net6.0\BlazorDemoApp.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\bin\Debug\net6.0\BlazorDemoApp.staticwebassets.runtime.json
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\bin\Debug\net6.0\BlazorDemoApp.exe
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\bin\Debug\net6.0\BlazorDemoApp.deps.json
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\bin\Debug\net6.0\BlazorDemoApp.runtimeconfig.json
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\bin\Debug\net6.0\BlazorDemoApp.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\bin\Debug\net6.0\ref\BlazorDemoApp.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\bin\Debug\net6.0\BlazorDemoApp.pdb
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\bin\Debug\net6.0\Smart.Blazor.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\obj\Debug\net6.0\scopedcss\bundle\BlazorDemoApp.styles.css
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\obj\Debug\net6.0\scopedcss\projectbundle\BlazorDemoApp.bundle.scp.css
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\obj\Debug\net6.0\BlazorDemoApp.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\obj\Debug\net6.0\BlazorDemoApp.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\obj\Debug\net6.0\ref\BlazorDemoApp.dll
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\obj\Debug\net6.0\BlazorDemoApp.pdb
+C:\Users\Lenovo\Desktop\jqWidgets\Blazor Docs\blazor-webassembly-entity\BlazorDemoApp\obj\Debug\net6.0\BlazorDemoApp.genruntimeconfig.cache
+D:\GitHub\BlazorDemoSample\bin\Debug\net6.0\appsettings.Development.json
+D:\GitHub\BlazorDemoSample\bin\Debug\net6.0\appsettings.json
+D:\GitHub\BlazorDemoSample\bin\Debug\net6.0\BlazorDemoApp.staticwebassets.runtime.json
+D:\GitHub\BlazorDemoSample\bin\Debug\net6.0\BlazorDemoApp.exe
+D:\GitHub\BlazorDemoSample\bin\Debug\net6.0\BlazorDemoApp.deps.json
+D:\GitHub\BlazorDemoSample\bin\Debug\net6.0\BlazorDemoApp.runtimeconfig.json
+D:\GitHub\BlazorDemoSample\bin\Debug\net6.0\BlazorDemoApp.dll
+D:\GitHub\BlazorDemoSample\bin\Debug\net6.0\ref\BlazorDemoApp.dll
+D:\GitHub\BlazorDemoSample\bin\Debug\net6.0\BlazorDemoApp.pdb
+D:\GitHub\BlazorDemoSample\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\GitHub\BlazorDemoSample\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\GitHub\BlazorDemoSample\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\GitHub\BlazorDemoSample\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\GitHub\BlazorDemoSample\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\GitHub\BlazorDemoSample\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitHub\BlazorDemoSample\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\GitHub\BlazorDemoSample\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GitHub\BlazorDemoSample\bin\Debug\net6.0\Smart.Blazor.dll
+D:\GitHub\BlazorDemoSample\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\GitHub\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.csproj.AssemblyReference.cache
+D:\GitHub\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.AssemblyInfoInputs.cache
+D:\GitHub\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.AssemblyInfo.cs
+D:\GitHub\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.csproj.CoreCompileInputs.cache
+D:\GitHub\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.RazorAssemblyInfo.cache
+D:\GitHub\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.RazorAssemblyInfo.cs
+D:\GitHub\BlazorDemoSample\obj\Debug\net6.0\staticwebassets.build.json
+D:\GitHub\BlazorDemoSample\obj\Debug\net6.0\staticwebassets.development.json
+D:\GitHub\BlazorDemoSample\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\GitHub\BlazorDemoSample\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\GitHub\BlazorDemoSample\obj\Debug\net6.0\scopedcss\bundle\BlazorDemoApp.styles.css
+D:\GitHub\BlazorDemoSample\obj\Debug\net6.0\scopedcss\projectbundle\BlazorDemoApp.bundle.scp.css
+D:\GitHub\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.csproj.CopyComplete
+D:\GitHub\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.dll
+D:\GitHub\BlazorDemoSample\obj\Debug\net6.0\ref\BlazorDemoApp.dll
+D:\GitHub\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.pdb
+D:\GitHub\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.genruntimeconfig.cache
+D:\BlazorDemoSample\bin\Debug\net6.0\appsettings.Development.json
+D:\BlazorDemoSample\bin\Debug\net6.0\appsettings.json
+D:\BlazorDemoSample\bin\Debug\net6.0\BlazorDemoApp.staticwebassets.runtime.json
+D:\BlazorDemoSample\bin\Debug\net6.0\BlazorDemoApp.exe
+D:\BlazorDemoSample\bin\Debug\net6.0\BlazorDemoApp.deps.json
+D:\BlazorDemoSample\bin\Debug\net6.0\BlazorDemoApp.runtimeconfig.json
+D:\BlazorDemoSample\bin\Debug\net6.0\BlazorDemoApp.dll
+D:\BlazorDemoSample\bin\Debug\net6.0\ref\BlazorDemoApp.dll
+D:\BlazorDemoSample\bin\Debug\net6.0\BlazorDemoApp.pdb
+D:\BlazorDemoSample\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\BlazorDemoSample\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\BlazorDemoSample\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\BlazorDemoSample\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\BlazorDemoSample\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\BlazorDemoSample\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BlazorDemoSample\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\BlazorDemoSample\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\BlazorDemoSample\bin\Debug\net6.0\Smart.Blazor.dll
+D:\BlazorDemoSample\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.csproj.AssemblyReference.cache
+D:\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.AssemblyInfoInputs.cache
+D:\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.AssemblyInfo.cs
+D:\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.csproj.CoreCompileInputs.cache
+D:\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.MvcApplicationPartsAssemblyInfo.cache
+D:\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.RazorAssemblyInfo.cache
+D:\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.RazorAssemblyInfo.cs
+D:\BlazorDemoSample\obj\Debug\net6.0\staticwebassets.build.json
+D:\BlazorDemoSample\obj\Debug\net6.0\staticwebassets.development.json
+D:\BlazorDemoSample\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\BlazorDemoSample\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\BlazorDemoSample\obj\Debug\net6.0\scopedcss\bundle\BlazorDemoApp.styles.css
+D:\BlazorDemoSample\obj\Debug\net6.0\scopedcss\projectbundle\BlazorDemoApp.bundle.scp.css
+D:\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.csproj.CopyComplete
+D:\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.dll
+D:\BlazorDemoSample\obj\Debug\net6.0\ref\BlazorDemoApp.dll
+D:\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.pdb
+D:\BlazorDemoSample\obj\Debug\net6.0\BlazorDemoApp.genruntimeconfig.cache
